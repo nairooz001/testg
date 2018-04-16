@@ -22,7 +22,7 @@ namespace testgapp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page.V2";
 
             return View();
         }
