@@ -15,7 +15,7 @@ namespace testgapp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page. v2";
 
             return View();
         }
