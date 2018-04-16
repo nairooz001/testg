@@ -8,7 +8,7 @@ namespace testgapp.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Index2()
         {
             return View();
         }
